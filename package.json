@@ -1,0 +1,28 @@
+{
+  "name": "destiny.gg-emotes",
+  "version": "0.0.0",
+  "description": "JSON file of destiny.gg emotes",
+  "keywords": [
+    "destinygg"
+  ],
+  "repository": "KenanY/destiny.gg-emotes",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.json",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "prepublish": "nugget https://destiny.gg/chat/emotes.json -o index.json",
+    "test": "tape test/index.js"
+  },
+  "devDependencies": {
+    "lodash.isarray": "^3.0.4",
+    "nugget": "^1.6.0",
+    "tape": "^4.2.2"
+  }
+}
