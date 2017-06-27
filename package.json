@@ -17,12 +17,12 @@
     "test": "test"
   },
   "scripts": {
-    "prepublish": "nugget https://destiny.gg/chat/emotes.json -o index.json",
+    "prepublish": "node scripts/download-emotes.js > index.json",
     "test": "tape test/index.js"
   },
   "devDependencies": {
     "lodash.isarray": "^4.0.0",
-    "nugget": "^2.0.0",
+    "simple-get": "^2.6.0",
     "tape": "^4.2.2"
   }
 }
