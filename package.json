@@ -21,7 +21,6 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "lodash.isarray": "^4.0.0",
     "simple-get": "^2.6.0",
     "tape": "^4.2.2"
   }

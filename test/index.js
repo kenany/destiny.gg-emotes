@@ -1,8 +1,8 @@
-var emotes = require('../');
 var test = require('tape');
-var isArray = require('lodash.isarray');
+
+var emotes = require('../');
 
 test('exports an array', function(t) {
   t.plan(1);
-  t.ok(isArray(emotes));
+  t.ok(Array.isArray(emotes));
 });
