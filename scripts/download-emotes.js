@@ -2,7 +2,7 @@ const get = require('simple-get');
 const process = require('process');
 
 const opts = {
-  url: 'https://rawgit.com/destinygg/website/master/assets/emotes.json',
+  url: 'https://rawgit.com/destinygg/chat-gui/master/assets/emotes.json',
   json: true
 };
 
