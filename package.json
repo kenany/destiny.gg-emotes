@@ -21,7 +21,7 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "simple-get": "^2.6.0",
+    "simple-get": "^3.0.0",
     "tape": "^4.2.2"
   }
 }
