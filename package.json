@@ -21,6 +21,7 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
+    "@kenan/renovate-config": "1.1.1",
     "simple-get": "^3.0.2",
     "tape": "^4.2.2"
   }
