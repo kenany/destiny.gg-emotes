@@ -1,7 +1,5 @@
 # destiny.gg-emotes
 
-[![Build Status][travis-svg]][travis]
-
 JSON file of destiny.gg emotes.
 
 ## Example
