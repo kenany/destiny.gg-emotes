@@ -23,6 +23,6 @@
   "devDependencies": {
     "@kenan/renovate-config": "^1.5.0",
     "simple-get": "4.0.0",
-    "tape": "5.0.1"
+    "tape": "5.2.2"
   }
 }
