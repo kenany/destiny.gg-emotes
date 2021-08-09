@@ -24,7 +24,3 @@ var emotes = require('destiny.gg-emotes');
 ### `emotes`
 
 _Array_ of destiny.gg emotes.
-
-
-   [travis]: https://travis-ci.org/KenanY/destiny.gg-emotes
-   [travis-svg]: https://img.shields.io/travis/KenanY/destiny.gg-emotes.svg
