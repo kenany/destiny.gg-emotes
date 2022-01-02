@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/KenanY/destiny.gg-emotes/compare/2.0.0...2.1.0) (2022-01-02)
+
+
+### Features
+
+* **emotes:** update list ([6b54442](https://github.com/KenanY/destiny.gg-emotes/commit/6b54442a58470ae93e36f29360cf142caeedc03a))
+
 ## [2.0.0](https://github.com/KenanY/destiny.gg-emotes/compare/1.10.0...2.0.0) (2021-08-09)
 
 
