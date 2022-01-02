@@ -25,7 +25,6 @@
     "update": "node scripts/download-emotes.js > index.json"
   },
   "devDependencies": {
-    "@kenan/renovate-config": "^1.5.1",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^4.6.3",
