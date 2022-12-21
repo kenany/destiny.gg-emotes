@@ -25,7 +25,7 @@
     "update": "node scripts/download-emotes.js > index.json"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "semantic-release": "^19.0.5",
