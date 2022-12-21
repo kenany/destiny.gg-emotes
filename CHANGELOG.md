@@ -1,3 +1,15 @@
+## [3.0.0](https://github.com/KenanY/destiny.gg-emotes/compare/2.1.0...3.0.0) (2022-12-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([ace2832](https://github.com/KenanY/destiny.gg-emotes/commit/ace2832a151a7b1bed28058fe7579d95745962d6))
+* **emotes:** update list ([ef96c0a](https://github.com/KenanY/destiny.gg-emotes/commit/ef96c0a5eaf1154dd78ef80457e955a41cfd4280))
+
 ## [2.1.0](https://github.com/KenanY/destiny.gg-emotes/compare/2.0.0...2.1.0) (2022-01-02)
 
 
