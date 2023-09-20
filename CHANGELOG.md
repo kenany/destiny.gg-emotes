@@ -1,3 +1,15 @@
+## [4.0.0](https://github.com/kenany/destiny.gg-emotes/compare/3.0.0...4.0.0) (2023-09-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([0b737ad](https://github.com/kenany/destiny.gg-emotes/commit/0b737ad5bf4088c4659da03fc2f47285664dc0ed))
+* **emotes:** update list ([657fd89](https://github.com/kenany/destiny.gg-emotes/commit/657fd89c0f75de8ddf068ac300decc9fa790b98e))
+
 ## [3.0.0](https://github.com/KenanY/destiny.gg-emotes/compare/2.1.0...3.0.0) (2022-12-21)
 
 
