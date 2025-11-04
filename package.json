@@ -25,11 +25,11 @@
     "update": "node scripts/download-emotes.js > index.json"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/git": "^10.0.1",
-    "conventional-changelog-conventionalcommits": "^9.1.0",
-    "semantic-release": "^25.0.0",
-    "simple-get": "^4.0.1",
-    "tape": "^5.9.0"
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "conventional-changelog-conventionalcommits": "9.1.0",
+    "semantic-release": "25.0.1",
+    "simple-get": "4.0.1",
+    "tape": "5.9.0"
   }
 }
