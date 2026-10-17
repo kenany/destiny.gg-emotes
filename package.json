@@ -30,6 +30,6 @@
     "conventional-changelog-conventionalcommits": "9.3.1",
     "semantic-release": "25.0.9",
     "simple-get": "4.0.1",
-    "tape": "5.10.2"
+    "tape": "5.10.3"
   }
 }
